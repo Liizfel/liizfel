@@ -1,38 +1,49 @@
-# 𝓞𝓵𝓪́, 𝓮𝓾 𝓼𝓸𝓾 𝓪 𝓛𝓲𝔃! 👋 🎓
+# Olá, eu sou a Liz 👋
 
-> ❝ 𝖦𝗋𝖺𝖽𝗎𝖺𝖽𝖺 𝖾𝗆 𝖠𝗇𝖺́𝗅𝗂𝗌𝖾 𝖾 𝖣𝖾𝗌𝖾𝗇𝗏𝗈𝗅𝗏𝗂𝗆𝖾𝗇𝗍𝗈 𝖽𝖾 𝖲𝗂𝗌𝗍𝖾𝗆𝖺𝗌. 
-> 𝖠𝗉𝖺𝗂𝗿𝗈𝗇𝖺𝖽𝖺 𝗉𝗈𝗋 𝗍𝗋𝖺𝗇𝗌𝖿𝗈𝗋𝗆𝖺𝗋 𝖺 𝖼𝗈𝗆𝗉𝗅𝖾𝗑𝗂𝖽𝖺𝖽𝖾 𝖽𝗈 𝖼𝗈́𝖽𝗂𝗀𝗈 𝖾𝗆 𝗂𝗇𝗍𝖾𝗋𝖿𝖺𝖼𝖾𝗌 **𝗅𝖾𝗏𝖾𝗌, 𝗌𝗎𝖺𝗏𝖾𝗌 𝖾 𝖾𝗍𝖾́𝗋𝖾𝖺𝗌**. ❞
+### Desenvolvedora Full Stack | Graduada em Análise e Desenvolvimento de Sistemas
 
----
-
-### ✧ 𝖢𝖺𝗇𝗍𝗂𝗇𝗁𝗈 𝖽𝖾 𝖤𝗌𝗍𝗎𝖽𝗈𝗌 & 𝖢𝗋𝗂𝖺𝖼̧𝖺̃𝗈
-𝖬𝖾𝗎 𝖿𝗈𝖼𝗈 𝖾́ 𝖼𝗈𝗇𝗌𝗍𝗋𝗎𝗂𝗋 𝗌𝗈𝗅𝗎𝖼̧𝗈̃𝖾𝗌 𝗈𝗇𝖽𝖾 𝖺 **𝗉𝖾𝗋𝖿𝗈𝗋𝗆𝖺𝗇𝖼𝖾** 𝖾𝗇𝖼𝗈𝗇𝗍𝗋𝖺 𝗈 **𝖻𝖾𝗆-𝖾𝗌𝗍𝖺𝗋 𝗏𝗂𝗌𝗎𝖺𝗅**:
-
-* ☁️ **𝖫𝖺𝗋𝖺𝗏𝖾𝗅 & 𝖯𝖧𝖯** — Arquitetando sistemas como o **Plannus**, focados em organização acadêmica fluida.
-* 🐍 **𝖯𝗒𝗍𝗁𝗈𝗇 & 𝖥𝗅𝖺𝗌𝗄** — Criando ferramentas ágeis e minimalistas para o dia a dia.
-* 🎨 **𝖢𝗋𝖾𝖺𝗍𝗂𝗏𝖾 𝖣𝖾𝖻𝗎𝗀𝗀𝗂𝗇𝗀** — Unindo o rigor técnico de ADS com uma estética confortável e humana.
+Sou apaixonada por transformar lógica em experiências digitais. Meu foco está no desenvolvimento de aplicações robustas com **PHP/Laravel** e **Python/Flask**, sempre priorizando a alta performance e uma estética clean e funcional. Acredito que um código bem escrito deve ser acompanhado de uma interface confortável e intuitiva.
 
 ---
 
-### ✧ 𝖮𝗇𝖽𝖾 𝖺 𝖬𝖺́𝗀𝗂𝖼𝖺 𝖠𝗑𝗈𝗇𝗍𝖾𝖼𝖾
-𝖲𝖾 𝗏𝗈𝖼𝖾̂ 𝖻𝗎𝗌𝗉𝖺 𝗂𝗇𝗌𝗉𝗂𝗋𝖺𝗉𝖺̃𝗈 𝗈𝗎 𝗊𝗎𝖾𝗋 𝗏𝖾𝗋 𝗆𝖾𝗎𝗌 𝗉𝗋𝗈𝗃𝖾𝗍𝗈𝗌 𝖾𝗆 𝖽𝖾𝗍𝖺𝗅𝗁𝖾𝗌:
+### 🛠️ Tecnologias e Estudos
+Atualmente, dedico meu "cantinho" no GitHub para o aprimoramento em:
 
-* 🌐 **𝖯𝗈𝗋𝗍𝖿𝗈́𝗅𝗂𝗈:** [𝖵𝗂𝗌𝗂𝗍𝖾 𝗆𝖾𝗎 𝖲𝗂𝗍𝖾 𝖯𝗋𝗈́𝗉𝗋𝗂𝗈](https://SEU-SITE-AQUI.com)
-* 💼 **𝖢𝗈𝗇𝖾𝗑𝖺̃𝗈:** [𝖫𝗂𝗇𝗄𝖾𝖽𝖨𝗇](https://linkedin.com/in/SEU-USUARIO)
-* 📸 **𝖢𝗋𝗂𝖺𝗍𝗂𝗏𝗂𝖽𝖺𝖽𝖾:** [𝖨𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆](https://instagram.com/SEU-USUARIO)
-* 📚 **𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗈 𝖫𝗂𝗍𝖾𝗋𝖺́𝗋𝗂𝗈:** [𝖲𝗄𝗈𝗈𝖻](https://skoob.com.br/usuario/SEU-USUARIO)
+* **Back-end:** Construção de APIs RESTful e sistemas escaláveis utilizando Laravel e Flask.
+* **Performance & SEO:** Foco em entregas rápidas, código limpo (Clean Code) e otimização.
+* **UX/UI Design:** Aplicação de conceitos de design para criar interfaces suaves e profissionais.
 
 ---
 
-### 📊 𝖬𝖾𝗍𝗋𝗂𝖼𝖺𝗌 𝖾 𝖤𝗏𝗈𝗅𝗎𝖼̧𝖺̃𝗈
-<p align="left"><i>“O que não se mede, não se gerencia.”</i></p>
+### 🚀 Projeto em Destaque: [Plannus](https://github.com/Liizfel/Plannus-Laravel)
+Uma plataforma acadêmica desenvolvida para trazer leveza e organização à rotina estudantil, unindo gestão de metas e métricas de desempenho em um ambiente minimalista.
 
+---
+
+### 🌐 Conecte-se comigo
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://SEU-SITE-AQUI.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://instagram.com/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 📈 Estatísticas de Desenvolvimento
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Liizfel&show_icons=true&theme=soft-violet&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liizfel&layout=compact&langs_count=7&theme=soft-violet" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liizfel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liizfel&layout=compact&langs_count=7&theme=transparent" />
 </div>
 
----
 <p align="center">
-  <i>𝖢𝗈́𝖽𝗂𝗀𝗈 𝗅𝗂𝗆𝗉𝗈, 𝗆𝖾𝗇𝗍𝖾 𝖿𝗈𝖼𝖺𝖽𝖺, 𝖽𝖾𝗌𝗂𝗀𝗇 𝗌𝗎𝖺𝗏𝖾.</i>
+  <sub>"O que não se mede, não se gerencia." — Peter Drucker</sub>
 </p>
