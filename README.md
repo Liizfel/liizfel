@@ -1,4 +1,4 @@
-<h1 align="center">✨ KAREN ELIZA FELIX </h1>
+<h1 align="center"> Olá, eu sou a Karen! 👋 </h1>
 
 <p align="center">
   <b>Bacharel em Análise e Desenvolvimento de Sistemas</b><br>
