@@ -1,4 +1,4 @@
-# Olá, eu sou a Liz! 👋 🎓 <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="50px">
+# Olá, eu sou a Karen! <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="50px">
 
 Sou graduada em **Análise e Desenvolvimento de Sistemas**. O meu GitHub é o meu cantinho especial, onde documento minha evolução e compartilho meus projetos de estudo utilizando **Laravel, PHP, Python e Flask**. 
 
