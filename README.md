@@ -49,7 +49,7 @@ O **Plannus** é o reflexo da minha filosofia de desenvolvimento: uma plataforma
   <a href="mailto:eliza.sil2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://instagram.com/@liizfel" target="_blank">
+  <a href="https://instagram.com/@liizfel/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
