@@ -1,19 +1,8 @@
-<table border="0">
-  <tr>
-    <td>
-      <h1>Olá, eu sou a Liz! 👋 🎓</h1>
-      <p>
-        Sou graduada em <b>Análise e Desenvolvimento de Sistemas</b>. O meu GitHub é o meu cantinho especial, onde documento minha evolução e compartilho meus projetos de estudo. 
-      </p>
-      <p>
-        Sou apaixonada por criar sites que unem <b>criatividade, alta performance e uma estética confortável</b> para o usuário.
-      </p>
-    </td>
-    <td align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="180px" alt="GIF Programação">
-    </td>
-  </tr>
-</table>
+# Olá, eu sou a Liz! 👋 🎓 <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="50px">
+
+Sou graduada em **Análise e Desenvolvimento de Sistemas**. O meu GitHub é o meu cantinho especial, onde documento minha evolução e compartilho meus projetos de estudo utilizando **Laravel, PHP, Python e Flask**. 
+
+Amo criar sites **criativos**, com **performance** e uma **estética confortável**. 🚀
 
 ---
 
