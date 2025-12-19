@@ -1,30 +1,27 @@
 # Olá, eu sou a Karen! 👋
 
-### Desenvolvedora Full Stack | Graduada em Análise e Desenvolvimento de Sistemas
+### 🎓 Bacharel em Análise e Desenvolvimento de Sistemas
+**Desenvolvedora Full Stack | Especialista em Soluções Criativas & Performance**
 
-Sou apaixonada por arquitetar soluções que equilibram lógica rigorosa e experiências digitais fluidas. Com sólida formação técnica, foco meu trabalho no ecossistema **PHP/Laravel** e **Python/Flask**, priorizando alta performance, escalabilidade e uma estética **clean e funcional**. Acredito que a excelência técnica deve caminhar junto a uma interface intuitiva e confortável.
+Sou uma desenvolvedora que acredita que a lógica rigorosa do back-end pode (e deve) coexistir com uma estética suave e intuitiva. Meu foco está em arquitetar sistemas robustos utilizando **PHP/Laravel** e **Python/Flask**, sempre com um olhar atento à experiência do usuário e à escalabilidade do código.
 
 ---
 
-### 🛠️ Especialidades & Tech Stack
+### 🛠️ My Creative Stack
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <strong>💻 Back-end & Arquitetura</strong>
-      <ul>
-        <li>Desenvolvimento de APIs RESTful escaláveis.</li>
-        <li>Ecossistema Laravel (PHP) e Flask (Python).</li>
-        <li>Foco em Clean Code, SOLID e Design Patterns.</li>
-      </ul>
+      <strong>💻 Back-end Core</strong><br />
+      • <b>PHP:</b> Ecossistema Laravel completo.<br />
+      • <b>Python:</b> Desenvolvimento ágil com Flask.<br />
+      • <b>Database:</b> Modelagem SQL focada em performance.
     </td>
     <td width="50%" valign="top">
-      <strong>🎨 UX/UI & Performance</strong>
-      <ul>
-        <li>Criação de interfaces etéreas e minimalistas.</li>
-        <li>Otimização de performance e Technical SEO.</li>
-        <li>Foco em acessibilidade e estética confortável.</li>
-      </ul>
+      <strong>🎨 Design & UX</strong><br />
+      • <b>Front-end:</b> Interfaces leves e etéreas.<br />
+      • <b>Performance:</b> Technical SEO e Clean Code.<br />
+      • <b>Tooling:</b> Figma para prototipagem criativa.
     </td>
   </tr>
 </table>
@@ -32,38 +29,39 @@ Sou apaixonada por arquitetar soluções que equilibram lógica rigorosa e exper
 ---
 
 ### 🚀 Projeto em Destaque: [Plannus](https://github.com/Liizfel/Plannus-Laravel)
-> **Plataforma Acadêmica** desenvolvida para transformar a gestão estudantil através da organização visual. O projeto une métricas de desempenho e gestão de metas em um ambiente minimalista e suave.
+> **"O que não se mede, não se gerencia."**
+> O Plannus é meu projeto principal, onde aplico o conceito de **organização sem peso**. Uma plataforma acadêmica com atmosfera clean, desenvolvida para transformar rotinas complexas em fluxos visuais equilibrados.
 
 ---
 
-### 🌐 Presença Digital & Contato
+### 🌐 Conecte-se ao meu universo
 
 <p align="left">
+  <a href="https://liizfel.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
   <a href="https://www.linkedin.com/in/karen-eliza-felix" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://liizfel.up.railway.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  <a href="https://instagram.com/@liizfel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:eliza.sil2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://instagram.com/@liizfel" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 ---
 
-### 📊 Performance & Insights
+### 📊 Insights de Desenvolvimento
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liizfel&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liizfel&layout=compact&langs_count=7&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liizfel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liizfel&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<br />
+---
 
 <p align="center">
-  <sub>"O que não se mede, não se gerencia." — <strong>Peter Drucker</strong></sub>
+  <i>Construindo o amanhã com código limpo e alma criativa.</i>
 </p>
