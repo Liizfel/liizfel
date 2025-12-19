@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>“Transformando a lógica do sistema em experiências visuais confortáveis e etéreas.”</i>
+  <i>“Transformando a lógica do sistema em experiências visuais confortáveis e divertidas.”</i>
 </p>
 
 ---
