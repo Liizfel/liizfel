@@ -1,7 +1,7 @@
 # Olá, eu sou a Karen! 👋
 
 ### 🎓 Bacharel em Análise e Desenvolvimento de Sistemas
-**Desenvolvedora Full Stack | Especialista em Soluções Criativas & Performance**
+**Desenvolvedora Front-end em formação | Focada em criar projetos criativos e funcionais**
 
 Sou uma desenvolvedora que acredita que a lógica rigorosa do back-end pode (e deve) coexistir com uma estética suave e intuitiva. Meu foco está em arquitetar sistemas robustos utilizando **PHP/Laravel** e **Python/Flask**, sempre com um olhar atento à experiência do usuário e à escalabilidade do código.
 
