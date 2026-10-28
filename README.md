@@ -1,9 +1,7 @@
 <h1 align="center"> Olá, eu sou a Karen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;Bacharel+em+Análise+e+Dev.+de+Sistemas;Criando+interfaces+modernas+e+acessíveis" alt="Typing SVG" />
-  </a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;Bacharel+em+Analise+e+Dev+de+Sistemas;Criando+interfaces+modernas" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,7 +39,7 @@
 > 
 > **Stacks:** React, Vite, Framer Motion, Tailwind CSS, Shadcn/UI.
 
-#### 📌 [Stocksys](https://github.com/Liizfel/stocksys) *(Atualize o link aqui)*
+#### 📌 [Stocksys](https://github.com/Liizfel/stocksys) 
 **Sistema de Gestão e Controle** *(Altere este subtítulo se necessário)*
 > Aplicação robusta desenvolvida para otimizar fluxos de trabalho e gerenciamento. Foco em uma interface limpa que facilita a visualização de dados complexos e tomada de decisão.
 > 
