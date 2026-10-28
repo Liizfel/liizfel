@@ -65,5 +65,5 @@
 ### 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://karen-felix-portfolio.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://meuportfolioo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/karen-eliza-felix" target="_blank"><img src="
