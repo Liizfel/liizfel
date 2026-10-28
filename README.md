@@ -1,17 +1,25 @@
-<h1 align="center"> Olá, eu sou a Karen! 👋 </h1>
+<h1 align="center"> Olá, eu sou a Karen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
-  <b>Bacharel em Análise e Desenvolvimento de Sistemas</b><br>
-  Desenvolvedora Front-end em formação | Focada em criar interfaces fluidas, modernas e acessíveis
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-end;Bacharel+em+Análise+e+Dev.+de+Sistemas;Criando+interfaces+modernas+e+acessíveis" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=for-the-badge" alt="Status">
 </p>
 
 <p align="center">
   <i>“Transformando lógica de sistemas em experiências visuais confortáveis e intuitivas.”</i>
 </p>
+
+---
+
+### 👩‍💻 Sobre mim
+- 🔭 Atualmente focada em aprimorar minhas habilidades no ecossistema **React e UI/UX**.
+- 🌱 Aprendendo e aplicando conceitos avançados de **acessibilidade e performance** no Front-end.
+- 💡 Busco sempre unir código limpo com um design que encante o usuário.
 
 ---
 
@@ -33,19 +41,25 @@
 > 
 > **Stacks:** React, Vite, Framer Motion, Tailwind CSS, Shadcn/UI.
 
-#### 📌 [Plannus](https://github.com/Liizfel/Plannus-Laravel)
-**Ecossistema Acadêmico Inteligente**
-> Sistema de gestão estudantil que prioriza o minimalismo para reduzir a carga cognitiva, oferecendo métricas precisas para o acompanhamento de metas acadêmicas.
+#### 📌 [Stocksys](https://github.com/Liizfel/stocksys) *(Atualize o link aqui)*
+**Sistema de Gestão e Controle** *(Altere este subtítulo se necessário)*
+> Aplicação robusta desenvolvida para otimizar fluxos de trabalho e gerenciamento. Foco em uma interface limpa que facilita a visualização de dados complexos e tomada de decisão.
 > 
-> **Stacks:** Laravel, Blade, PHP, MySQL.
+> **Stacks:** React, Node.js, Tailwind CSS *(Atualize com as stacks reais do projeto)*.
 
 ---
 
-### 📊 Github Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=liizfel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liizfel&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=liizfel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas da Karen" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liizfel&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=liizfel&label=Visualizações+do+Perfil&color=0e75b6&style=flat-square" alt="Contador de visualizações" />
 </div>
 
 ---
@@ -54,10 +68,4 @@
 
 <p align="center">
   <a href="https://karen-felix-portfolio.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/karen-eliza-felix" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
-</p>
-
-<p align="center"> 
-  <sub>"O que não se mede, não se gerencia." — <b>Peter Drucker</b></sub>
-</p>
+  <a href="https://www.linkedin.com/in/karen-eliza-felix" target="_blank"><img src="
